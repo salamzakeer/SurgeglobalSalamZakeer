@@ -1,8 +1,8 @@
 # QUICK INSTRUCTIONS
-Download the backend api.
-open the backend folder
-Run npm i command on terminal ( Module files are not here )
-Start the Server (npm start)
+Download the backend api. >>
+open the backend folder. >>
+Run npm i command on terminal ( Module files are not here ). >>
+Start the Server (npm start).
 
 # Client - Front End
 visit : https://github.com/salamzakeer/Client-SalamZakeer-Surge.git
