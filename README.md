@@ -13,6 +13,8 @@ This login api is created with mongoDB Atlas with open accesss
 # Arictecture 
 Model-Routes-Controllers-Services Code
 
+#Authentication
+JSON Web Tokens - jwt
 
 # Getting Started with Create React App
 
